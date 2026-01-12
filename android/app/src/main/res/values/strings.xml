@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Paycheck Pathfinder</string>
+    <string name="title_activity_main">Paycheck Pathfinder</string>
+    <string name="package_name">com.openskytechnologies.paycheckpathfinder</string>
+    <string name="custom_url_scheme">com.openskytechnologies.paycheckpathfinder</string>
+</resources>

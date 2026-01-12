@@ -1,2 +1,20 @@
-# paycheck-pathfinder-app
-Paycheck Pathfinder is a paycheck-based financial planning platform that automates income allocation across bills, debt, and savings. It provides real-time visibility into cash flow, upcoming obligations, and payoff progress to help users make disciplined, data-driven financial decisions.
+# Base44 App
+
+
+This app was created automatically by Base44.
+It's a Vite+React app that communicates with the Base44 API.
+
+## Running the app
+
+```bash
+npm install
+npm run dev
+```
+
+## Building the app
+
+```bash
+npm run build
+```
+
+For more information and support, please contact Base44 support at app@base44.com.
